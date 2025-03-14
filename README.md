@@ -37,9 +37,9 @@ This project provides a complete solution for locating the first occurrence posi
 
 
 
-# 在无限不循环中找到你的专属位置吧！ / Find your place in the infinite loop!
+## 在无限不循环中找到你的专属位置吧！ / Find your place in the infinite loop!
 
 
-📬 联系作者 / Contact
-电子邮箱 / Email: zhang.ershi@qq.com
-微信号 / WeChat: zhang_tjnk
+## 📬 联系作者 / Contact
+- 电子邮箱 / Email: zhang.ershi@qq.com
+- 微信号 / WeChat: zhang_tjnk
